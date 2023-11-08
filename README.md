@@ -1,1 +1,6 @@
-# U_III-Act-1-MVC_JLM_WitchFlowers
+# Empresa Witch Flowers
+## Jazmin Lopez Martinez
+
+### Tabla Pedidos_Flores
+
+### Base de datos en phpmyadmin
